@@ -13,7 +13,7 @@ Set up this repo and learn as I do so.
 
 ## Dates
 - **Started:** 2026-11-09
-- **Finished:** 
+- **Finished:** 2026-11-09
 
 ## Tools installed
 - Nothing new: git, nano and ssh were already on my laptop

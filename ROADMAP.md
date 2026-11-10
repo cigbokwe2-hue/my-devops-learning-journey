@@ -180,7 +180,7 @@ my-devops-learning-journey/
 │   └── 01-linux/      Created the day the phase starts
 │       ├── README.md  Goal, resources, budget, dates, tools, exit challenge
 │       ├── notes/     One file per topic
-│       ├── labs/      One folder per lab
+│       ├── labs/      One file per lab
 │       └── retro.md   End-of-phase reflection
 └── scripts/
     └── learn          My progress script, built in Phase 1
@@ -444,12 +444,12 @@ The steps:
 
 `ROADMAP.md` was written on 2026-11-09, before Phase 0 started.
 
-- [ ] Terminal basics (pwd, ls, cd, mkdir, cp)
-- [ ] Markdown basics (headings, lists, links, checkboxes)
-- [ ] First git commands (init, status, add, commit, push)
-- [ ] SSH keys and connecting to GitHub
-- [ ] **Exit challenge:** first push to GitHub
-- [ ] **Retro** written
+- [✓] Terminal basics (pwd, ls, cd, mkdir, cp)
+- [✓] Markdown basics (headings, lists, links, checkboxes)
+- [✓] First git commands (init, status, add, commit, push)
+- [✓] SSH keys and connecting to GitHub
+- [✓] **Exit challenge:** first push to GitHub
+- [✓] **Retro** written
 
 ### Phase 1: Linux · budget 63 h
 

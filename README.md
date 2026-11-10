@@ -9,20 +9,20 @@ I'm a beginner learning DevOps around a full-time job, at my own pace. I'm follo
 | | |
 |---|---|
 | **Started** | 2026-11-09 |
-| **Current phase** | [0 Setup](phases/00-setup/README.md) |
-| **Topics done** | 0 of 82 |
-| **Hours logged** | 0 of about 1,035 |
-| **Study days** | 0 |
+| **Current phase** | 1 Linux |
+| **Topics done** | 4 of 82 |
+| **Hours logged** | 3 of about 1,035 |
+| **Study days** | 1 |
 | **Longest streak** | 0 weeks |
 
-Last updated 2026-11-09.
+Last updated 2026-11-10.
 
 ## The phases
 
 | Phase | Hour budget | Status |
 |---|---|---|
-| [0 Setup](phases/00-setup/README.md) | 6 | In progress |
-| 1 Linux | 63 | Not started |
+| [0 Setup](phases/00-setup/README.md) | 6 | Done |
+| 1 Linux | 63 | Up next |
 | 2 Networking | 42 | Not started |
 | 3 Git | 42 | Not started |
 | 4 Python | 126 | Not started |
