@@ -444,12 +444,12 @@ The steps:
 
 `ROADMAP.md` was written on 2026-11-09, before Phase 0 started.
 
-- [✓] Terminal basics (pwd, ls, cd, mkdir, cp)
-- [✓] Markdown basics (headings, lists, links, checkboxes)
-- [✓] First git commands (init, status, add, commit, push)
-- [✓] SSH keys and connecting to GitHub
-- [✓] **Exit challenge:** first push to GitHub
-- [✓] **Retro** written
+- [x] Terminal basics (pwd, ls, cd, mkdir, cp)
+- [x] Markdown basics (headings, lists, links, checkboxes)
+- [x] First git commands (init, status, add, commit, push)
+- [x] SSH keys and connecting to GitHub
+- [x] **Exit challenge:** first push to GitHub
+- [x] **Retro** written
 
 ### Phase 1: Linux · budget 63 h
 
