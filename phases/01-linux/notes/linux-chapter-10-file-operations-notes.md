@@ -53,3 +53,26 @@
 ### Backup and compression
 - cp - Used for creating simple local duplicate
 - rsync - Used for synchronizing directory trees or backing up over a network.
+
+### Common compression Utilities
+- gzip - Good and fast
+- bzip2 - Smaller compression but slower
+- xz - Smallest but also the slowest
+- zip - For compatibility with Windows and other systems
+
+### Archiving with tar
+- tar bundles multiple files and directories into a single file
+- tar -[options] file
+    #### tar options
+    - c - create
+    - x - extract
+    - v - verbose
+    - f - the file name
+    - t - list without extracting
+    - z - gzip
+    - J - xz
+    - j - bzip2
+### dd
+- It makes direct, byte-for-byte copies of raw storage devices, partitions, or data streams.
+- if= is the input while of= is the output
+
